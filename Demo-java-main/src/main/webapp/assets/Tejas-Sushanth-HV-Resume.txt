@@ -1,0 +1,31 @@
+TEJAS SUSHANTH H V
+Entry-Level DevOps / Cloud Engineer
+
+PROFILE
+Aspiring DevOps and Cloud Engineer building practical skills in Linux, Git, Docker,
+Jenkins, Maven, Apache Tomcat, and CI/CD automation. Interested in entry-level roles
+that offer hands-on engineering, collaboration, and continuous learning.
+
+TECHNICAL SKILLS
+Linux / Ubuntu | Git & GitHub | Docker | Jenkins | Maven | Apache Tomcat | CI/CD
+GitHub Actions | YAML | AWS fundamentals | Shell basics | Troubleshooting
+
+PROJECTS
+1. Java WAR Deployment — Package a Java web application with Maven and deploy it to Tomcat.
+2. Dockerized Web Application — Build a multi-stage Docker image and run the application.
+3. CI/CD Automation — Practice source checkout, Maven builds, WAR archiving, and pipeline status.
+4. Linux Operations Lab — Practice users, groups, permissions, services, logs, and shell commands.
+
+EDUCATION
+Add your degree / diploma, institution, and graduation year here.
+
+CERTIFICATIONS
+Add only certifications you have completed. Include issuer, date, and credential URL.
+
+CONTACT & LINKS
+Email: replace-with-your-email@example.com
+GitHub: https://github.com/your-username
+LinkedIn: add-your-profile-url
+
+IMPORTANT: This is an editable starter resume, not a verified final CV. Fill in your real
+education, dates, achievements, contact details, and actual repository links before sharing.
