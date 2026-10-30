@@ -25,4 +25,3 @@ Personalize before publishing
 Search src/main/webapp/index.jsp for your.email@example.com, https://github.com/, and your-username. Replace these placeholders with your real contact/profile URLs. Update the starter resume at src/main/webapp/assets/Tejas-Sushanth-HV-Resume.txt with verified education, dates, experience, certificates, and project links. Do not claim certifications or work experience you do not have.
 
 The listed projects are portfolio project ideas based on the existing Java WAR/Docker project and common beginner DevOps labs; update their descriptions to match what you have actually completed.
-package
